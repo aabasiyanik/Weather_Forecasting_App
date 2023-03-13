@@ -1,13 +1,17 @@
-# Temperature Converter App
+# Weather App
 
-A simple web app that converts temperature from Celsius to Fahrenheit and vice versa.
+A simple web application that allows the user to check the temperature of a location they input. The app displays the current temperature in Fahrenheit.
 
 ## Features
 
-- Converts temperature from Celsius to Fahrenheit and vice versa.
+- Enter the name of a location to get the current temperature.
 - Updates the result automatically when the user enters a new value.
-- User can switch between Celsius and Fahrenheit with the click of a button.
+- Temperature is displayed in Fahrenheit.
+- Stylish and responsive user interface.
 - Responsive design that works on desktop and mobile devices.
+
+## Getting Started
+To run the app, simply open the index.html file.
 
 ## Technologies Used
 
@@ -19,3 +23,7 @@ A simple web app that converts temperature from Celsius to Fahrenheit and vice v
 
 1. Clone the repository.
 2. Open the index.html file in your web browser.
+
+## Credits
+
+This app was created by Ahmed Abasiyanik. It uses the OpenWeather API to retrieve weather data.
